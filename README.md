@@ -5,37 +5,37 @@ This project analyzes 150,000+ retail transaction records to evaluate revenue pe
 
 🛠 Tools & Technologies
 
-SQL (Data Analysis & Aggregation)
+- SQL (Data Analysis & Aggregation)
 
-Excel (Data Validation & Quick Analysis)
+- Excel (Data Validation & Quick Analysis)
 
-Power BI (Dashboard & Visualization)
+- Power BI (Dashboard & Visualization)
 
 🎯 Business Objectives
 
-Analyze monthly revenue trends and growth patterns
+- Analyze monthly revenue trends and growth patterns
 
-Evaluate the effectiveness of discount strategies
+- Evaluate the effectiveness of discount strategies
 
-Identify high-value and repeat customers
+- Identify high-value and repeat customers
 
-Detect underperforming stores and regions
+- Detect underperforming stores and regions
 
-Assess product category contribution to total revenue
+- Assess product category contribution to total revenue
 
 📈 Key KPIs Tracked
 
-Total Net Revenue
+- Total Net Revenue
 
-Gross Sales
+- Gross Sales
 
-Average Order Value (AOV)
+- Average Order Value (AOV)
 
-Revenue by Category
+- Revenue by Category
 
-Revenue by Store
+- Revenue by Store
 
-Discount Impact on Revenue
+- Discount Impact on Revenue
 
 🚀 Outcome
 
